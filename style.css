@@ -78,7 +78,7 @@ div img {
 }
 
 /* Tablet Landscape Screen Sizes */
-@media only screen and (min-width: 512px)  {
+@media only screen and (min-width: 513px)  {
 	
   .col-1,
   .col-2{
@@ -107,7 +107,7 @@ div img {
 
 }
 /* Desktop screen Sizes */
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 1025px) {
   
   
  	.col-1 {
